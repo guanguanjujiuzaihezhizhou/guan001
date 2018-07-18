@@ -1,5 +1,6 @@
 package com.offcn.po;
 //阿威锋网发放任务
+//通过客户端拉取远程仓库修改后的
 public class NewStudent {
 	private int id;
 	private String name;
